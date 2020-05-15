@@ -40,7 +40,7 @@ monopoly = {
       :rent_in_dollars=> {},
       :names=>
       
-    }
+    
   }
 end
 
